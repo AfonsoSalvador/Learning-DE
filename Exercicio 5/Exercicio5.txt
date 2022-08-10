@@ -1,0 +1,5 @@
+Implemente uma lista duplamente encadeada de alunos, com OU sem sentinela (sua escolha). Implemente as funcionalidades:
+- inicialização, inserção, retirada, impressão (nas duas direções), liberação de memória.
+
+Implemente um testador que inicialize mais de uma lista e teste todas as funcionalidades implementadas. 
+Use o valgrind para checar o uso da memória.

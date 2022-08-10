@@ -1,0 +1,9 @@
+Implemente um TAD Lista Simplesmente Encadeada de Alunos, como explicado na última aula. Funcionalidades esperadas:
+- inicialização da lista vazia;
+- inserção de aluno na última posição;
+- retirada de aluno por nome (chave de busca);
+- liberação da memória alocada para a lista;
+
+Neste exercício você tem a opção de definir o TAD Aluno separadamente (melhor!) OU no mesmo arquivo que a lista (para simplificar).
+
+Implemente um cliente testador que teste todas as funcionalidades implementadas, inclusive, com 2 ou mais listas ativas na memória simultaneamente. 

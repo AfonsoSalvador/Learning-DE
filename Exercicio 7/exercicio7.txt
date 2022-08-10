@@ -1,0 +1,7 @@
+Implemente uma lista simplesmente (ou duplamente se quiser um desafio um pouco maior) encadeada com
+sentinela, usando recursão! A lista pode ser de qualquer tipo que você quiser. As seguintes funcionalidades são esperadas:
+
+Básicas: Criação, inserção, retirada, impressão e liberação da memória.
+
+
+Extra: Função que verifica se duas listas são iguais (estrutura e conteúdo)
